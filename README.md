@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Won%20Wook%20Ko&height=150&fontSize=60&desc=FE%20Developer&descAlignY=75&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Won%20Wook%20Ko&height=150&fontSize=60&TextAlign=0&TextAlignY=0&&desc=FE%20Developer&descAlignY=75&descAlign=60)
 
 ## Hi there 👋
 <!-- ![footer](https://capsule-render.vercel.app/api?section=footer&text=Profile) -->
