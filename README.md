@@ -1,5 +1,5 @@
-## Won Wook Ko
-** FE Developer
+### Won Wook Ko
+## FE Developer
 
 <!-- ![footer](https://capsule-render.vercel.app/api?section=footer&text=Profile) -->
 
