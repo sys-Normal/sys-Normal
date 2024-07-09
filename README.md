@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=wook's%20&fontSize=90&FontAlign=0&FontAlignY=0&desc=profile&descAlign=0&DescAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=wook's&height=150&fontSize=60&desc=Profile%20Use%20Text&descAlignY=75&descAlign=60)
 
 ## Hi there 👋
 <!-- ![footer](https://capsule-render.vercel.app/api?section=footer&text=Profile) -->
