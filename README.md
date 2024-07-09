@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=wook's%20&fontSize=90&desc=profile)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=wook's%20&fontSize=90&desc=profile&descAlign=100&DescAlignY=100)
 
 <!-- ![footer](https://capsule-render.vercel.app/api?section=footer&text=Profile) -->
 
